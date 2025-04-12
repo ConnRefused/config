@@ -2,7 +2,7 @@
 
 <br>
 
-Hi, I'm **notdoc** (you can also call me **syspanic**), and I'm a **Full Stack Engineer** 👨‍💻. I build things for the web, I'm also proud to say that **I can successfully center an element with CSS.** (Most of the time! 😉)
+Hi, I'm **notdoc** (you can also call me **connrefused**), and I'm a **Full Stack Engineer** 👨‍💻. I build things for the web, I'm also proud to say that **I can successfully center an element with CSS.** (Most of the time! 😉)
 
 <br>
 
